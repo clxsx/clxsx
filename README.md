@@ -1,5 +1,5 @@
-    <img src="https://cdn.discordapp.com/attachments/924836260097454092/1019976361118552125/Hakdog.png?width=382&height=382" alt="Hakdog Utilities"/>
-    <img src="https://media.discordapp.net/attachments/988820570298777721/1015940144643182634/rOdGGSI.png?width=382&height=382" alt="Anorak-AC"/>
+    <img src="https://cdn.discordapp.com/attachments/924836260097454092/1019976361118552125/Hakdog.png?width=382&height=382"/>
+    <img src="https://media.discordapp.net/attachments/988820570298777721/1015940144643182634/rOdGGSI.png?width=382&height=382"/>
 <p align = 'center'>
     
 
