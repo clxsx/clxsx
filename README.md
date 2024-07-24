@@ -20,8 +20,10 @@
     </a>
 </div
 
-<div align="center">
-  <a href="https://discord.gg/Mnw4ES8gH7">Language
-    <img src="https://skillicons.dev/icons?i=lua,js,mysql,py,php" />
-  </a>
-</div>
+<h2 align="center"> Programming Language</h2>
+  
+  <div align="center"> 
+     <a href="https://discord.gg/Mnw4ES8gH7">
+     <img src="https://skillicons.dev/icons?i=lua,js,mysql,py,php" />
+    </a>
+</div
