@@ -21,7 +21,7 @@
 </div
 
 <div align="center"> 
-<h2 align="center"> Programming Language</h2>
+<h2 align="center">Language</h2>
   <div align="center"> 
      <a href="https://discord.gg/Mnw4ES8gH7">
      <img src="https://skillicons.dev/icons?i=lua,js,mysql,py,php" />
