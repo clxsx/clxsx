@@ -5,7 +5,7 @@
 <h3 align="center">Spotify Playing 🎧</h3>
 <div align="center">
   <a href="https://discord.gg/Mnw4ES8gH7">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ikscrjnculi5bjyvvu2qtulrnm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false", alt="spotify"></img>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22k6vpw2vxgj5sfsclxocvzcq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false", alt="spotify"></img>
   </a>
 </div>
 
