@@ -136,8 +136,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=a78bfa&fontAlignY=65" width="100%"/>
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
 ![Made with ❤️ in the Philippines](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-Philippines%20%F0%9F%87%B5%F0%9F%87%AD-7c3aed?style=for-the-badge)
 
 </div>
