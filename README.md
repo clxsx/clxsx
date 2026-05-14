@@ -25,8 +25,6 @@
 | **Scripting** | Custom ESX / QB-Core / ox_core resources |
 | **NUI** | HTML · CSS · JavaScript UI for FiveM |
 | **Database** | MySQL · oxmysql · ghmattimysql |
-| **Systems** | Job systems · Economy · Inventory · Gangs · Police |
-| **Roleplay** | MLO integration · Custom vehicles · Animations |
 | **Frameworks** | ESX · QBCore · ox_core |
 
 </div>
